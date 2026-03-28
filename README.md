@@ -1,7 +1,7 @@
 # Orange Blog Frontend
 
 一个基于 Vue 3 的现代化个人博客前端项目，采用响应式设计，支持多主题切换，提供完整的博客功能体验。具体设计以及效果可以查看我在github主页放出的个人博客链接里的相关文章，请搭配后端一起使用，修改昵称图片等请直接使用 Claude Code、Codex、Cursor、Trae、Qoder等软件进行询问式修改
-后端项目地址：https://github.com/orangelgj/orange-blog-backend
+## 后端项目地址：https://github.com/orangelgj/orange-blog-backend
 
 ## 重要说明
 
